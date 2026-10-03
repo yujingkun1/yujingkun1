@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="280" viewBox="0 0 1080 280" role="img" aria-labelledby="title desc">
+  <title id="title">Jingkun Yu — Code. Vision. Intelligence.</title>
+  <desc id="desc">An understated cream and forest green banner, with a small terminal, a graph, and an orange table tennis ball.</desc>
+  <rect width="1080" height="280" rx="12" fill="#f3f4ee"/>
+  <path d="M0 279.5H1080" stroke="#d8ddce"/>
+  <path d="M620 0V280" stroke="#dfe3d6"/>
+  <text x="48" y="47" font-family="Consolas, monospace" font-size="12" letter-spacing="2.2" fill="#68745d">/ YUJINGKUN1</text>
+  <text x="45" y="126" font-family="Georgia, serif" font-size="63" letter-spacing="-2" fill="#243026">Jingkun Yu</text>
+  <text x="48" y="173" font-family="Arial, sans-serif" font-size="23" fill="#4d6048">Code. Vision. Intelligence.</text>
+  <path d="M48 211H87" stroke="#839678" stroke-width="2"/>
+  <text x="99" y="216" font-family="Arial, sans-serif" font-size="13" fill="#7b8373">Computer Science · USTC / SWJTU / Leeds</text>
+  <g stroke="#e2e6da" stroke-width="1">
+    <path d="M650 40H1040M650 80H1040M650 120H1040M650 160H1040M650 200H1040M650 240H1040"/>
+    <path d="M680 24V256M720 24V256M760 24V256M800 24V256M840 24V256M880 24V256M920 24V256M960 24V256M1000 24V256"/>
+  </g>
+  <rect x="673" y="54" width="222" height="141" rx="7" fill="#fffef9" stroke="#9ca991"/>
+  <path d="M673 81H895" stroke="#dbe1d3"/>
+  <circle cx="688" cy="68" r="3" fill="#bdc7b3"/>
+  <circle cx="700" cy="68" r="3" fill="#bdc7b3"/>
+  <circle cx="712" cy="68" r="3" fill="#bdc7b3"/>
+  <text x="690" y="112" font-family="Consolas, monospace" font-size="15" fill="#66765c">&gt; learn();</text>
+  <text x="690" y="141" font-family="Consolas, monospace" font-size="15" fill="#66765c">&gt; build();</text>
+  <text x="690" y="170" font-family="Consolas, monospace" font-size="15" fill="#30422e">&gt; iterate();</text>
+  <path d="M895 136L953 89L1007 140L953 189L895 136M953 89V189" fill="none" stroke="#8b9f7c" stroke-width="1.6"/>
+  <g fill="#f3f4ee" stroke="#5b744c" stroke-width="2">
+    <circle cx="953" cy="89" r="6"/><circle cx="1007" cy="140" r="6"/><circle cx="953" cy="189" r="6"/>
+  </g>
+  <path d="M701 238Q776 171 846 236T1016 226" fill="none" stroke="#a5b298" stroke-width="1.2" stroke-dasharray="4 5"/>
+  <circle cx="1016" cy="226" r="8" fill="#d98a49"/>
+  <path d="M1041 207L1055 222M1047 199L1062 214" stroke="#9aab8c" stroke-width="1.5"/>
+</svg>
